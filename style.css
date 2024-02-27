@@ -5,6 +5,8 @@
 body {
   margin: 0;
   padding-top: 60px;
+  background-color: rgb(120, 86, 151);
+  color: beige;
 }
 
 nav {
